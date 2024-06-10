@@ -15,6 +15,6 @@ A simple weather application built with React that provides current weather info
    ```bash
    git clone https://github.com/your-username/weather-app.git
 ## Run
-1.First we have to install node modules using npi i command
-2.After that use can use npm run dev to run a project
+- First we have to install node modules using npi i command
+- After that use can use npm run dev to run a project
    
